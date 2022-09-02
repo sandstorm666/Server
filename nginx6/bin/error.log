@@ -1,0 +1,63 @@
+2022/08/02 16:52:16 [info] 3611: 监听80端口成功!
+2022/08/02 16:52:16 [info] 3611: 监听443端口成功!
+2022/08/02 16:52:16 [notice] 3612: master process ./nginx 3612 启动并开始运行......!
+2022/08/02 16:52:16 [notice] 3613: worker process 3613 启动并开始运行......!
+2022/08/02 16:52:16 [notice] 3614: worker process 3614 启动并开始运行......!
+2022/08/02 16:52:16 [notice] 3616: worker process 3616 启动并开始运行......!
+2022/08/02 16:52:16 [notice] 3615: worker process 3615 启动并开始运行......!
+2022/08/02 16:53:19 [stderr] 3615: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2022/08/02 16:53:19 [stderr] 3615: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2022/08/02 16:53:26 [stderr] 3615: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2022/08/02 16:53:26 [stderr] 3615: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2022/08/02 16:53:33 [stderr] 3615: nginx: 111111111111111111111111111111. (104: Connection reset by peer) 
+2022/08/03 20:36:40 [info] 5247: 监听80端口成功!
+2022/08/03 20:36:40 [info] 5247: 监听443端口成功!
+2022/08/03 20:36:40 [notice] 5248: master process ./nginx 5248 【master进程】启动并开始运行......!
+2022/08/03 20:36:41 [notice] 5249: worker process 5249 【worker进程】启动并开始运行......!
+2022/08/03 20:38:20 [stderr] 5249: nginx: 执行开始---begin,tid=139824228058880!
+2022/08/03 20:38:20 [stderr] 5249: nginx: 执行开始---begin,tid=139824219666176!
+2022/08/03 20:38:25 [stderr] 5249: nginx: 执行结束---end,tid=139824228058880!
+2022/08/03 20:38:25 [stderr] 5249: nginx: 执行结束---end,tid=139824219666176!
+2022/08/03 20:39:26 [stderr] 5249: nginx: 111111111111111111111111111111. (104: Connection reset by peer) 
+2022/08/03 20:42:54 [stderr] 5249: nginx: 111111111111111111111111111111. (104: Connection reset by peer) 
+2022/08/03 20:42:54 [stderr] 5249: nginx: 111111111111111111111111111111. (104: Connection reset by peer) 
+2022/08/03 20:48:24 [stderr] 5940: nginx: CSocekt::Initialize()中bind()失败,i=0. (13: Permission denied) 
+2022/08/03 20:48:24 [stderr] 5940: nginx: 程序退出，再见了!
+2022/08/03 20:48:33 [info] 5944: 监听80端口成功!
+2022/08/03 20:48:33 [info] 5944: 监听443端口成功!
+2022/08/03 20:48:33 [notice] 5945: master process ./nginx 5945 【master进程】启动并开始运行......!
+2022/08/03 20:48:34 [notice] 5946: worker process 5946 【worker进程】启动并开始运行......!
+2022/08/03 20:49:00 [stderr] 5946: nginx: 执行了CLogicSocket::_HandleRegister()!
+2022/08/03 20:49:00 [stderr] 5946: nginx: 执行了CLogicSocket::_HandleLogIn()!
+2022/08/03 20:49:17 [stderr] 5946: nginx: 111111111111111111111111111111. (104: Connection reset by peer) 
+2022/08/12 15:12:27 [info] 3020: 监听80端口成功!
+2022/08/12 15:12:27 [info] 3020: 监听443端口成功!
+2022/08/12 15:12:27 [notice] 3021: master process ./nginx 3021 【master进程】启动并开始运行......!
+2022/08/12 15:12:28 [notice] 3022: worker process 3022 【worker进程】启动并开始运行......!
+2022/08/12 15:19:15 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:19:15 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2022/08/12 15:19:18 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:19:18 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2022/08/12 15:19:19 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:19:19 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2022/08/12 15:19:20 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:19:20 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2022/08/12 15:19:22 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:19:22 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2022/08/12 15:19:23 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:19:23 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据没发送完毕【发送缓冲区满】，整个要发送63728，实际发送了1280。
+2022/08/12 15:19:40 [stderr] 3022: nginx: CSocekt::ngx_write_request_handler()中数据发送完毕，很好。
+2022/08/12 15:19:40 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:19:40 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据没发送完毕【发送缓冲区满】，整个要发送256，实际发送了64752。
+2022/08/12 15:19:40 [stderr] 3022: nginx: CSocekt::ngx_write_request_handler()中数据发送完毕，很好。
+2022/08/12 15:19:40 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:19:40 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2022/08/12 15:19:40 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:19:40 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据没发送完毕【发送缓冲区满】，整个要发送1792，实际发送了63216。
+2022/08/12 15:19:47 [stderr] 3022: nginx: CSocekt::ngx_write_request_handler()中数据发送完毕，很好。
+2022/08/12 15:19:47 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:19:47 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2022/08/12 15:20:11 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:20:11 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2022/08/12 15:20:13 [stderr] 3022: nginx: 即将发送数据65008。
+2022/08/12 15:20:13 [stderr] 3022: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
